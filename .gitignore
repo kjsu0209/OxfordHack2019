@@ -1,0 +1,7 @@
+#api keys
+.env
+/config.js
+
+#dependencies
+/node_modules
+/.vscode
