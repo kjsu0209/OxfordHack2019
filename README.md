@@ -13,4 +13,4 @@
 * send warning of requested location
 <hr/>
 ##Live Server
-<https://nodeprojectoxford.azurewebsites.net>
+https://nodeprojectoxford.azurewebsites.net
